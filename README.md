@@ -3,4 +3,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakizciAdam)](https://github.com/anuraghazra/github-readme-stats)
 
-wait how did get a A+ if only my public contributions count there is nothing there
+
